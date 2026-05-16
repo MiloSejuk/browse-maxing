@@ -4,8 +4,8 @@
 // @version       1.1.35
 // @author        Milo Sejuk
 // @match         *://*/*
-// @updateURL     https://raw.githubusercontent.com/Milo-143/browse-maxing/main/main.user.js
-// @downloadURL   https://raw.githubusercontent.com/Milo-143/browse-maxing/main/main.user.js
+// @updateURL     https://raw.githubusercontent.com/MiloSejuk/browse-maxing/main/main.user.js
+// @downloadURL   https://raw.githubusercontent.com/MiloSejuk/browse-maxing/main/main.user.js
 // @grant         unsafeWindow
 // @grant         GM_xmlhttpRequest
 // @grant         GM_getResourceText
