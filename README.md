@@ -10,8 +10,8 @@ Userscripts to revolutionize web browsing experience.
    * [Tampermonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
   
 2. **Setup Tampermonkey:**
-   Find Tampermonkey in browsers extensions > click more (3 dot) > manage extension > turn on allow user scripts
-   Also open Manage extensions (the gear icon) > enable developer mode (at the top right corner)
+   * Find Tampermonkey in browsers extensions > click more (3 dot) > manage extension > turn on allow user scripts
+   * Also open Manage extensions (the gear icon) > enable developer mode (at the top right corner)
 
 3. **Install the Script:**
    Once Tampermonkey is installed, click the link below to install the script:
