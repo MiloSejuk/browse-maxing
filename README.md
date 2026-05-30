@@ -79,4 +79,9 @@
    * 👉 [**Click Here to Install browse-maxing**](https://raw.githubusercontent.com/MiloSejuk/browse-maxing/main/main.user.js)
 
 5. **Confirm Installation:**
-   A Tampermonkey tab will open. Click the **Install** button. Enjoy!
+   A Tampermonkey tab will open. Click the **Install** button.
+
+6. **Sign Up/Log In account**
+   Refresh this page or go to www.google.com > click at grey floating button on the left
+
+**DONE**
