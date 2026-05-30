@@ -82,6 +82,6 @@
    A Tampermonkey tab will open. Click the **Install** button.
 
 6. **Sign Up/Log In account**
-   Refresh this page or go to www.google.com > click at grey floating button on the left
+   Refresh this page or go to www.google.com > when prompted cross-origin permission, click "always allow domain" > click at grey floating button on the left
 
 **DONE**
